@@ -4,6 +4,7 @@ This project focuses on **Market Basket Analysis** using the **Apriori algorithm
 
 The insights obtained from this analysis can be used for product placement, cross-selling strategies, and promotional planning.
 
+---
 
 ### Objectives
 
@@ -12,6 +13,7 @@ The insights obtained from this analysis can be used for product placement, cros
 - Generate association rules based on support, confidence, and lift
 - Interpret purchasing patterns to support data-driven retail decisions
 
+---
 
 ### Dataset Description
 
@@ -22,6 +24,7 @@ The dataset contains retail transaction records with the following key attribute
 
 Each customer transaction consists of multiple items purchased together.
 
+---
 
 ### Methodology
 
@@ -39,6 +42,7 @@ Each customer transaction consists of multiple items purchased together.
     - Generated association rules using confidence and lift
     - Filtered strong rules to extract meaningful product relationships
 
+---
 
 ### Tools and Technologies Used
 
@@ -48,6 +52,7 @@ Each customer transaction consists of multiple items purchased together.
 - mlxtend (Apriori, TransactionEncoder)
 - Jupyter Notebook
 
+---
 
 ### Results
 
@@ -55,6 +60,7 @@ Each customer transaction consists of multiple items purchased together.
 - Discovered strong association rules indicating product relationships
 - Provided actionable insights that can help optimize retail strategies
 
+---
 
 ### Use Cases
 
@@ -63,6 +69,7 @@ Each customer transaction consists of multiple items purchased together.
 - Targeted marketing and promotions
 - Inventory management
 
+---
 
 ### Conclusion
 
